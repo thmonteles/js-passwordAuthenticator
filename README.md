@@ -9,3 +9,12 @@
 **Recuperação de Senha:** Os usuários podem solicitar a recuperação de senha por e-mail em caso de esquecimento da senha. Um link de redefinição de senha é enviado para o endereço de e-mail registrado.
 
 **Proteção de Rotas:** As rotas que requerem autenticação são protegidas e não podem ser acessadas sem fazer login. O React Router é usado para gerenciar a proteção de rotas.
+
+### Tecnologias utilizadas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
